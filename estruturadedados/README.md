@@ -18,6 +18,21 @@ Implementação das operações Inserção, Remoção, Busca e Cálculo, em trê
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Depend
+**2. Projeto 2: Sistemas de Busca:**
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Benchemark comparativo entre algoritmos de pesquisa utilizando diferentes volumes de dados.
+
+- Busca Sequencial
+- Busca Binária
+- Busca em Árvore de Busca 
+
+**3. Projeto 3: Benchmark de Ordenação:**
+
+- Bubble Sort
+- Insertion Sort
+
+## Como executar:
+- Clone este repositório:
+[Repositório](https://github.com/RayssaAraujo12/estruturasdedados_rayssaaraujo)
+
+
