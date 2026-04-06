@@ -16,8 +16,6 @@ Implementação das operações Inserção, Remoção, Busca e Cálculo, em trê
 - `Àrvore Rubro-Negra`: Balanceamento otimizado focado em propriedades de coloração de nós.
 - `Heurística do Caxeiro Viajante`: Algoritmo do Vizinho Mais Próximo implementado para selecionar o problema em grafos com análise de tempo.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
 **2. Projeto 2: Sistemas de Busca:**
 
 Benchemark comparativo entre algoritmos de pesquisa utilizando diferentes volumes de dados.
