@@ -70,6 +70,8 @@ public class SistemaBSTCompleto {
                 }
             }
 
+            if (prox == -1) break; // ✅ proteção
+
             visitado[prox] = true;
             custo += menor;
             atual = prox;
@@ -114,7 +116,6 @@ public class SistemaBSTCompleto {
 
             No raiz = null;
 
-            // Inserção
             for (int j = 0; j < tamanho; j++)
                 raiz = inserir(raiz, rand.nextInt(tamanho * 10));
 
@@ -122,7 +123,7 @@ public class SistemaBSTCompleto {
 
             long ini = System.nanoTime();
             buscar(raiz, chave);
-            remover(raiz, chave);
+            raiz = remover(raiz, chave); // ✅ CORREÇÃO PRINCIPAL
             altura(raiz);
             long fim = System.nanoTime();
 
