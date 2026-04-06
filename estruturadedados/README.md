@@ -1,19 +1,23 @@
-## Estruturas, Pesquisa e Ordenação de Dados
+## Estruturas, Pesquisa e Ordenação de Dados 🎲
 
-Repositório destinado aos projetos práticos da avaliação bimestral da disciplina _*Estruturas, Pesquisa e Ordenação de Dados*_ do Curso de Análise e Desenvolvimento de Sistemas (5° Período).
+Repositório destinado aos projetos práticos da avaliação bimestral da disciplina **_Estruturas, Pesquisa e Ordenação de Dados_** do Curso de Análise e Desenvolvimento de Sistemas (5° Período).
+
+O objetivo deste projeto é a implementação em **_JAVA_** de estrutura de dados complexas e a análise estatística de desempenho em diferentes volumes de dados.
 
 
-## Folder Structure
+## Estruta dos Projetos 
 
-The workspace contains two folders by default, where:
+**1. Projeto 1: Àrvores e Balanceamento:**
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Implementação das operações Inserção, Remoção, Busca e Cálculo, em três tipos de árvores binárias:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `Àrvore Binária de Busca (BST)`: Estrutura base
+- `Àrvore AVL`: Balanceamento rigoroso baseado em fator equilíbrio.
+- `Àrvore Rubro-Negra`: Balanceamento otimizado focado em propriedades de coloração de nós.
+- `Heurística do Caxeiro Viajante`: Algoritmo do Vizinho Mais Próximo implementado para selecionar o problema em grafos com análise de tempo.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## Depend
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
