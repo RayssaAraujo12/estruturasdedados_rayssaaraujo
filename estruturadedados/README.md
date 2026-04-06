@@ -1,6 +1,7 @@
-## Getting Started
+## Estruturas, Pesquisa e Ordenação de Dados
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório destinado aos projetos práticos da avaliação bimestral da disciplina _*Estruturas, Pesquisa e Ordenação de Dados*_ do Curso de Análise e Desenvolvimento de Sistemas (5° Período).
+
 
 ## Folder Structure
 

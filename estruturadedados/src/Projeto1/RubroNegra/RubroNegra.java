@@ -1,4 +1,4 @@
-package Projeto01.RubroNegra;
+package Projeto1.RubroNegra;
 
 import java.util.*;
 
